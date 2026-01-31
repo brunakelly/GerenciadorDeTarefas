@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GerenciadorDeTarefas.Application/GerenciadorDeTarefas.Application.csproj" Id="19ed0a56-729c-4865-9114-67e716fc281f" />
+  <Project Path="GerenciadorDeTarefas.Communication/GerenciadorDeTarefas.Communication.csproj" Id="efbe4cd1-e038-48e5-81c3-1303f97ba32c" />
+  <Project Path="GerenciadorDeTarefas/GerenciadorDeTarefas.API.csproj" />
+</Solution>
